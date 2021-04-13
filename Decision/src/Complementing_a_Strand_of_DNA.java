@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Complementing_a_Strand_of_DNA {
+public class Complementing_a_Strand_of_DNA  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String Input = scanner.nextLine();
